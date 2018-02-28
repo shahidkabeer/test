@@ -1,3 +1,7 @@
 hii how are u ?
 i am fine.
+for(i=0;i<10;i++)
+{
+printf("hiii");
+}
 
